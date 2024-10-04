@@ -54,8 +54,7 @@ on improving retrieval and the final response. For instance, when presenting a d
 “not ideal” textual output would be: a bar chart with information about <topic>; whereas an
 ideal textual output would be: a chart showing how the level of <data> was rising over the last
 <period_of_time>. The latter would help the system to do a more efficient retrieval 
-- Initially, the solution is considered to be developed with the LlamaIndex framework. The
-selection of another framework or set of tools must be justified based on comparison with LlamaIndex.
+- Initially, the solution is considered to be developed with the LlamaIndex framework.
 
 ## The Data
 The attached dataset contains verified/reviewed claims available in our claim review database.
