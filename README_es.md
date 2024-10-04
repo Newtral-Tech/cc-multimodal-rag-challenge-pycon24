@@ -1,4 +1,4 @@
-# Verificación automática
+#  Verificación automática
 
 Una ClaimReview es un estándar de metadatos para capturar información relevante sobre una verificación de datos (por ejemplo, título, imagen, calificación, afirmación…). Debido a que el documento de revisión combina texto y recursos multimedia, un buscador o chatbot de asistencia debe tener en cuenta no sólo la información textual, sino también toda la información que se puede extraer de los recursos multimedia (en nuestro caso, restringida a recursos de imagen).
 
